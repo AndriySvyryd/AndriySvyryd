@@ -33,14 +33,18 @@
 </p>
 
 <br />
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andriysvyryd&show_icons=true&hide_border=true&locale=en&layout=compact" alt="andriysvyryd" /></p>
+<br />
 
 ### :zap: GitHub Stats
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andriysvyryd&margin-w=5" alt="andriysvyryd" /></a>
 
-<img align="left" alt="Andriy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndriySvyryd&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true" />
+<br />
+
+<p align="left">
+  <img alt="Andriy's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=andriysvyryd&show_icons=true&hide_border=true&locale=en&layout=compact" alt="andriysvyryd" />
+  <img alt="Andriy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndriySvyryd&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true" />
+</p>
 
 [linkedin]: https://www.linkedin.com/in/andriy-svyryd-51364719/
 [stackoverflow]: https://stackoverflow.com/users/1171992/andriy-svyryd
