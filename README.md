@@ -12,9 +12,6 @@
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
 
-<br />
-<br />
-
 ### Technology Stack:
 
 <p align="left">
@@ -34,10 +31,7 @@
 
 <br />
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andriysvyryd&show_icons=true&hide_border=true&locale=en&layout=compact" alt="andriysvyryd" /></p>
-
-<br />
-<br />
+<p margin="20"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andriysvyryd&show_icons=true&hide_border=true&locale=en&layout=compact" alt="andriysvyryd" /></p>
 
 ### :zap: GitHub Stats
 
