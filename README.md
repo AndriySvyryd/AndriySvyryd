@@ -12,13 +12,16 @@
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
 
+<br />
+<br />
+
 ### Technology Stack:
 
 <p align="left">
 <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
 <a href="https://docs.microsoft.com/dotnet/" target="_blank"><img align="left" alt=".NET Core" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></a>
-<a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="40" height="40" src="http://dotnetcore.io/wp-content/uploads/2017/01/DNC-Logo-300x226.png" /></a>  
 <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank"><img align="left" alt="Blazor" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" /></a>
+<a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="40" height="40" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-core-logo.png" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" width="40" height="40" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" /></a>
 <a href="https://sass-lang.com/" target="_blank"><img align="left" alt="SASS" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" /></a>
@@ -31,7 +34,7 @@
 
 <br />
 
-<p margin="20"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andriysvyryd&show_icons=true&hide_border=true&locale=en&layout=compact" alt="andriysvyryd" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andriysvyryd&show_icons=true&hide_border=true&locale=en&layout=compact" alt="andriysvyryd" /></p>
 
 ### :zap: GitHub Stats
 
