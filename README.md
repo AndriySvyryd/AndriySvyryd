@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/him/his
 - 🔭 I’m currently working on [EF Core](https://github.com/dotnet/efcore)
 - 🎮 I’m currently developing [UnicornHack](https://github.com/AndriySvyryd/UnicornHack) in my spare time
-- ⚡ Fun fact: I also speak Russian, Ukrainian and Spanish
+- 💬 Fun fact: I also speak Russian, Ukrainian and Spanish
 
 <details>
   <summary>📫 Connect with me</summary>
